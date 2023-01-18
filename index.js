@@ -26,7 +26,7 @@ const matriz = [
 
 ];
 
-//Esta porcion de codigo sera el algoritmo como tal
+//Esta aporcion de codigo sera el algoritmo como tal
 const caracol = (array) => {
 
   //se declara la variable que sera el arreglo final
