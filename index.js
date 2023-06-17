@@ -9,9 +9,7 @@
        Jairo Perez C.I.28.336.214
 
 
-       marico el que lo lea
-
-
+       
             En este quiz se requirio que se desarrollara un algoritmo
             para leer una matriz recorriendo los elementos de la matriz
             en el sentido de las agujas del reloj (patron de caracol).
